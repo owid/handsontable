@@ -2,7 +2,7 @@ import typescript from 'rollup-plugin-typescript2';
 import { baseConfig, plugins } from './base';
 
 const env = process.env.NODE_ENV;
-const filename = 'react-handsontable.js';
+const filename = 'react-handsontable.cjs';
 
 export const cjsConfig = {
   output: {
