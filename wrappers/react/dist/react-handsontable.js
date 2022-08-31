@@ -25,7 +25,7 @@
  * INDIRECT, SPECIAL, INCIDENTAL, OR CONSEQUENTIAL DAMAGES OF ANY CHARACTER ARISING FROM
  * USE OR INABILITY TO USE THIS SOFTWARE.
  * 
- * Version: 12.1.2 (built at Fri Aug 26 2022 18:21:48 GMT+0200 (Central European Summer Time))
+ * Version: 12.1.2 (built at Wed Aug 31 2022 07:35:08 GMT+0200 (Central European Summer Time))
  */
 (function (global, factory) {
 typeof exports === 'object' && typeof module !== 'undefined' ? factory(exports, require('react'), require('react-dom'), require('handsontable/base')) :

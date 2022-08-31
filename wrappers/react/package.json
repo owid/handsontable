@@ -13,7 +13,8 @@
   "exports": {
     ".": {
       "import": "./es/react-handsontable.mjs",
-      "require": "./commonjs/react-handsontable.cjs"
+      "require": "./commonjs/react-handsontable.cjs",
+      "types": "./index.d.ts"
     }
   },
   "keywords": [
